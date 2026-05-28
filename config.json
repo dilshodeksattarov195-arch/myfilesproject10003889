@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyptringify",
+        "uuid": 26091301,
+        "checksum": "zlw9xr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
